@@ -1,6 +1,6 @@
 import datetime
 
-from datacollector_application.business_layer.assistent_classes.date_collector import DateCollector
+from datacollector_application.business_layer.helpers.date_collector import DateCollector
 from datacollector_application.business_layer.model.article import Article
 from datacollector_application.business_layer.scraper.scraper_interface import BeautifulParent
 
